@@ -1,0 +1,13 @@
+{
+  "name": "partytown-demo",
+  "version": "1.0.0",
+  "scripts": {
+    "start": "npm run partytown && serve -s public",
+    "partytown": "partytown copylib public/~partytown"
+  },
+  "license": "MIT",
+  "dependencies": {
+    "@builder.io/partytown": "^0.6.2",
+    "serve": "^13.0.2"
+  }
+}
