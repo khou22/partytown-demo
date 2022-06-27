@@ -5,5 +5,7 @@
 
 <img src="partytown_console.png">
 
+<img src="performance_developer_tool.png">
+
 ## Docs
 https://www.raresportan.com/a-short-intro-to-partytown/
